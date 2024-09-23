@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-mini-blog/static/css/main.b3264b96.css",
+    "main.js": "/react-mini-blog/static/js/main.4923916b.js",
+    "index.html": "/react-mini-blog/index.html",
+    "main.b3264b96.css.map": "/react-mini-blog/static/css/main.b3264b96.css.map",
+    "main.4923916b.js.map": "/react-mini-blog/static/js/main.4923916b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b3264b96.css",
+    "static/js/main.4923916b.js"
+  ]
+}
